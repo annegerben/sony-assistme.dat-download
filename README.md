@@ -7,4 +7,3 @@ run gps.cmd before using the camera.
 
 credits for the idea from:
 https://blog.brixandersen.dk/2010/04/02/downloading-sony-gps-assist-data-using-perl/
-
